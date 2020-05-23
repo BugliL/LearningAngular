@@ -1,0 +1,23 @@
+{
+  "name": "learningangular",
+  "version": "1.0.0",
+  "description": "repository to learn and study Angular9",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BugliL/LearningAngular.git"
+  },
+  "author": "Bugli Lorenzo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BugliL/LearningAngular/issues"
+  },
+  "homepage": "https://github.com/BugliL/LearningAngular#readme",
+  "dependencies": {
+    "@angular/cli": "^9.1.7",
+    "typescript": "^3.9.3"
+  }
+}
