@@ -53,6 +53,16 @@ repository to learn and study Angular9 using reference online and following the 
     rxjs                         6.5.4
     typescript                   3.9.3
     ```
-
+    
+ -  Create an Angular application i used ```stock-market``` as <application_name> 
+    ```bash 
+    $ ng new stock-market        
+    ```
+    
+ -  To check if everything ok, from Angular directory 
+    ```bash
+    stock-market/ $ ng serve 
+    ```
+    
 ## Bug fixing
 I updated my node version because too old to let Angular work
