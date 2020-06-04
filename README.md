@@ -64,5 +64,12 @@ repository to learn and study Angular9 using reference online and following the 
     stock-market/ $ ng serve 
     ```
     
+ -  To generate a new Angular Component in the folder stock
+    ```bash
+    stock-market/ $ ng generate component stock/stock-item
+    ```
+    it created a Component called stock-item in the folder src/app/stock/stock-item. 
+    The client added the new Component in the app.module.ts file.
+    
 ## Bug fixing
 I updated my node version because too old to let Angular work
