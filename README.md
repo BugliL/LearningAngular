@@ -4,7 +4,7 @@ repository to learn and study Angular9 using reference online and following the 
 > Angular: Up and Running By Shyam Seshadri  
 > Copyright © 2018 Shyam Seshadri. All rights reserved.
 
-# Installation and configuration
+## Installation and configuration
 
  -  Update ```npm``` globally
     ```
@@ -54,3 +54,5 @@ repository to learn and study Angular9 using reference online and following the 
     typescript                   3.9.3
     ```
 
+## Bug fixing
+I updated my node version because too old to let Angular work
