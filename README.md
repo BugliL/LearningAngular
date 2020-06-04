@@ -54,7 +54,7 @@ repository to learn and study Angular9 using reference online and following the 
     typescript                   3.9.3
     ```
     
- -  Create an Angular application i used ```stock-market``` as <application_name> 
+ -  Create an Angular application I used ```stock-market``` as <application_name> 
     ```bash 
     $ ng new stock-market        
     ```
@@ -65,11 +65,27 @@ repository to learn and study Angular9 using reference online and following the 
     ```
     
  -  To generate a new Angular Component in the folder stock
+    
     ```bash
     stock-market/ $ ng generate component stock/stock-item
     ```
     it created a Component called stock-item in the folder src/app/stock/stock-item. 
     The client added the new Component in the app.module.ts file.
+    Files created are
+    
+    ```
+    src/app/stock
+    └── stock-item
+        ├── stock-item.component.html
+        ├── stock-item.component.sass
+        ├── stock-item.component.spec.ts
+        └── stock-item.component.ts
+    ```
+    
+    *  .html: Component HTML
+    *  .sass: Component Style 
+    *  .spec.ts: Component TESTs
+    *  .ts: Component code
     
 ## Bug fixing
 I updated my node version because too old to let Angular work
